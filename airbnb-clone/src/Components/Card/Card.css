@@ -1,0 +1,35 @@
+.card-image{
+    width: 170px;
+    height: 220px;
+}
+
+.card-description{
+    display: flex;
+}
+
+.card-description > img{
+    padding: 5px;
+}
+
+.card-description > p{
+    font-weight: 300;
+    color: grey;
+}
+
+.rating{
+    font-weight: 600;
+    color: black;
+}
+
+h4{
+    margin: 0;
+}
+
+.card-heading{
+    padding: 2px;
+    font-weight: 100;
+}
+
+.card-price{
+    padding: 2px;
+}
