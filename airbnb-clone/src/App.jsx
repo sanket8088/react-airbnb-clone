@@ -9,7 +9,9 @@ function App() {
     <>
     <Header />
     <Introduction />
-    <Card />
+    <Card lesson = "new lesson1"
+          price = "$ 120"
+          />
     </>
     
   )
